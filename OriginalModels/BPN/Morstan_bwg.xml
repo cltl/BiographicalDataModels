@@ -1,0 +1,35 @@
+<biodes version="1.0">
+  <fileDesc>
+    <title/>
+    <ref target="http://www.biografischwoordenboekgelderland.nl/bio/9999_Mary_Morstan"/>
+    <publisher>
+      <name>Biografisch Woordenboek Gelderland</name>
+      <ref target="http://www.biografischwoordenboekgelderland.nl"/>
+    </publisher>
+  <idno type="source">bwg</idno></fileDesc>
+  <person><idno type="id">9999_Mary_Morstan</idno><persName>Mary<name type="geslachtsnaam">Morstan</name></persName>
+<event type="birth" when="1860"/><event type="death" when="1896"/><state type="occupation">governess</state><idno type="bioport">999999999</idno><idno type="bioport">000000000</idno></person>
+  <biography>
+    <graphic url="http://www.inghist.nl/media/bwg/images/9999/-0000.jpg"/>
+    <text>&lt;h1&gt;Mary Morstan&lt;/h1&gt;&lt;h2&gt;1860-1896&lt;/h2&gt;
+
+Mary Morstan (alias &amp;#8216;Mary Watson&amp;#8217;) was born in Calcutta on January 1st 1860 as daughter of Arthur Mortstan, Captain in an Indian division of the British army. She married Dr. John H. Watson in 1889. She died in London in 1896 of unknown causes.
+
+
+
+
+
+&lt;p&gt;She was born in India, where her father was stationed as a Captain in an Indian regiment. He was later transferred to the Andaman Islands, from where he disappeared under mysterious circumstances in 1878. Mary was living in England at the time, where she was sent to be educated after the death of her mother shortly after her birth. Without other relatives in England, Mary had to take care of herself after her father's disappearance. Having completed her education at the age of 17, she found work as a governess.&lt;/p&gt; 
+
+&lt;p&gt;While working for a well-off family in London, she met Dr. Watson. They married in London in 1889.&lt;/p&gt; 
+
+
+&lt;h1&gt;Literatuur&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lWikipedia - Minor Sherlock Holmes characters;/li&gt;
+&lt;/ul&gt;
+
+
+</text>
+  </biography>
+</biodes>

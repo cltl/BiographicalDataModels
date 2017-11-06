@@ -1,0 +1,26 @@
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>A.S. Fokkens</author>
+    <ref target="http://www.inghist.nl/retroboeken/blnp/?source=2&amp;page_number=9999"/>
+    <publisher>
+      <name>A.S. Fokkens</name>
+      <ref target="http://www.inghist.nl"/>
+    </publisher>
+  <idno type="source">blnp</idno></fileDesc>
+  <person>
+    <idno type="id">999999.xml</idno>
+    <persName>Morstan, Mary</persName>
+    <event type="birth" when="1860-01-01">
+      <place>Calcutta</place>
+    </event>
+    <event type="death" when="1896-05-14">
+      <place>Londen</place>
+    </event>
+  <idno type="bioport">9999999</idno></person>
+  <biography>
+    <text>MORSTAN, MARY 
+* Calcutta 1 jan. 1860, Londen 14 May
+1896. D. van Arthur Morstan. She married Dr. John H. Watson on the 1st of May in London.</text>
+  </biography>
+</biodes>

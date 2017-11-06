@@ -1,0 +1,38 @@
+<biodes version="1.0">
+   <fileDesc>
+       <idno>IAV_9999-biografie</idno>
+       <author>Antske Fokkens</author>
+       <ref target="http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:9999&amp;res2=localhost:8080/solr/core14"/>
+       <date when="2017/11/05"/>
+       <revisionDesc>
+           <change when="2017-11-06"/>
+       </revisionDesc>
+       <publisher>
+           <name>Database Vrouwenbiografien, Aletta</name>
+           <ref target="http://www.aletta.nu/aletta/nl/collecties/biografieen"/>
+       </publisher>
+       <availability status="free">Aletta, Instituut voor Vrouwengeschiedenis. Bronvermelding: Antske Fokkens - Morstan, Mary (1860-1896), in: Database Vrouwenbiografieen, Aletta. URL:http://www.aletta.nu/aletta/zoek/ext_zoek.jsp?res1=priref:9999&amp;res2=localhost:8080/solr/core14</availability>
+   <title/><idno type="source">aletta</idno></fileDesc>
+   <person>
+       <persName>Morstan, Mary</persName>
+       <persName>Watson, Mary</persName>
+       <sex value="2"/>
+       <event type="birth" when="1860">
+           in <place>Calcutta</place>
+       </event>
+       <event type="death" when="1896">
+           in <place>London</place>
+       </event>
+   <state type="claim_to_fame">wife of Dr. John H. Watson.</state>
+   <state type="claim_to_fame">daughter of Captain Arthur Morstan.</state>
+   <idno type="bioport">94192545</idno><idno type="id">aletta/IAV_9999-biografie.xml</idno><idno type="bioport">99999999</idno><idno type="bioport">000000000</idno></person>
+   <biography>
+          <text xml:lang="en">
+She was the daughter of Captain Arthur Morstan (1835-1878). She was married to Dr. John H. Watson from 1889 until her death in 1896. She was born in India, where her father was stationed as a Captain in an Indian regiment. He was later transferred to the Andaman Islands, from where he disappeared under mysterious circumstances in 1878. Mary was living in England at the time, where she was sent to be educated after the death of her mother shortly after her birth. Without other relatives in England, Mary had to take care of herself after her father's disappearance. Having completed her education at the age of 17, she found work as a governess. 
+While working for a well-off family in London, she met Dr. Watson. They married in London in 1889. 
+          </text>
+      <bibl>
+           <ref target="https://en.wikipedia.org/wiki/Minor_Sherlock_Holmes_characters#Mary_Morstan_.28later_Watson.29">Wikipedia - Minor Sherlock Holmes characters</ref>
+      </bibl>
+   </biography>
+</biodes>
