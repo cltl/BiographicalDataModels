@@ -1,0 +1,51 @@
+<biodes version="1.0">
+    <fileDesc>
+        <fileDesc>
+            <title>Morstan, Mary (1860-1896)</title>
+            <author>A.S. Fokkens</author>
+            <ref target="http://www.historici.nl/Onderzoek/Projecten/BWN_1780tot1830/lemmata/data/Morstan"/>
+            <date when="2018-02-01"/>
+            <revisionDesc>
+                <changed when="2018-02-02"/>
+            </revisionDesc>
+            <publisher>
+                <name>Biografisch Woordenboek van Nederland: 1780-1830</name>
+                <ref target="http://www.historici.nl/Onderzoek/Projecten/BWN_1780tot1830"/>
+            </publisher>
+            <idno type="source">bwn_1780tot1830</idno></fileDesc>
+        <person>
+            <idno type="id">Morstan</idno>
+            <persName><name type="voornaam">Mary</name> <name type="geslachtsnaam">Morstan</name></persName>
+            <sex value="2"/>
+            <event type="birth" when="1860"/>
+            <event type="death" when="1896"/>
+        </person>
+        <biography>
+            <graphic url="http://www.historici.nl/Onderzoek/Projecten/BWN/lemmata/bwn3/images/images/MORSTAN.jpg"/>
+            <text>&lt;dtml-var bwn_header&gt;
+                &lt;p class='genealogie'&gt;
+                &lt;strong&gt;Morstan, Mary&lt;/strong&gt;, governess (Calcutta 1-1-1860 - Londen 14-5-1896).
+                
+                Daughter of Arthur Morstan, Captain in an Indian division of the British army and MOTHER NAME. Maried on 14-04-1889 to Dr. John Watson. No children were born from this marriage.
+                
+                &lt;img src=&amp;quot;images/Mary.jpg&amp;quot; align=&amp;quot;right&amp;quot; BORDER=&amp;quot;0&amp;quot; alt=&amp;quot;afbeelding van Morstan, Mary&amp;quot; class=&amp;quot;bwnimg&amp;quot;&gt;
+                
+                &lt;/p&gt;
+                &lt;p&gt;Morstan came from a family situated in lower upper-class in British India. As an only child and having lost her mother at a young age, she had a close relation to her father. Their similar characters and love of adventure and traveling strengthened their bond. She followed the path common for higher class girls of British descendance in India and moved to England for her education.&lt;/p&gt;
+                &lt;p&gt;After graduation in 1877, she found a position as a governess in London. Not much is known about her whereabouts after her first position as a governess and her marriage to Dr. John Watson in 1889.
+                &lt;/p&gt;
+                &lt;p&gt;
+                &lt;a href='pgedeelte'&gt;P: &lt;/a&gt;Bibliography in
+                &lt;em&gt;Collected Writings by Arthur Mortan&lt;/em&gt;
+                
+                [Pub. by A.R. Mortan et al.] (Calcutta [etc.],
+                1868)7-15.&lt;/p&gt;
+                &lt;p&gt;
+                &lt;a href='lgedeelte'&gt;L: &lt;/a&gt; Sir Arthur Conan Doyle, in
+                &lt;em&gt;The Sign of Four&lt;/em&gt;
+                
+                October 1890, by
+                &lt;em&gt;Spencer Blackett&lt;/em&gt;</text>
+        </biography>
+</biodes>
+
