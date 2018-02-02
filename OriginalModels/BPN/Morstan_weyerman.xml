@@ -1,0 +1,17 @@
+<biodes version="1.0.1">
+	  <fileDesc>
+	    <title/>
+	    <ref target="http://digbijzcoll.library.uu.nl/lees_gfx.php?lang=nl&amp;W=Off&amp;BoekID=40&amp;PageOrder=368.00&amp;style=fmw"/>
+	    <publisher>
+	      <name>XXX</name>
+	      <ref target="http://digbijzcoll.library.uu.nl"/>
+	    </publisher>
+	  <idno type="source">weyerman</idno></fileDesc>
+	  <person>
+	    <idno type="id">0779.xml</idno>
+	    <persName>Morstan, Mary</persName>
+	  <idno type="bioport">97243434</idno></person>
+	  <biography>
+	    <text>MORSTAN was born in London, the daughter of captain Morstan, who we described in the previous entry. She is known for her painted landscapes with hounds, and portraits of people performing their daily profession, like detectives, doctors and bakers.</text>
+	  </biography>
+	</biodes>
