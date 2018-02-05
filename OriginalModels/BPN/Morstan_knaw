@@ -1,0 +1,102 @@
+<biodes version="1.0.1">
+	  <fileDesc>
+	    <title/>
+	    <author>Doyle, A. C.</author>
+	    <ref target="http://www.dwc.knaw.nl/english/academy/past-members/?pagetype=authorDetail&amp;aId=PE00000325"/>
+	    <publisher>
+	      <name>KNAW - Levensberichten en Herdenkingen</name>
+	      <ref target="http://www.digitallibrary.nl/levensberichten/works.cfm"/>
+	    </publisher>
+	  <idno type="source">knaw</idno></fileDesc>
+	  <person>
+	    <idno type="id">446</idno>
+	    <persName><name type="voornaam">Mary</name> <name type="geslachtsnaam">Morstan</name></persName>
+	    <sex value="1"/>
+	    <event type="birth" when="1861-05-26”>
+	      <place>London</place>
+	    </event>
+	    <event type="death" when="1891-17-02">
+	      <place>London</place>
+	    </event>
+	    <state type="occupation">Governess</state>
+	    <state type="occupation">Spy</state>
+	  <idno type="PE00000325">huygens_id</idno><idno type="bioport">98576433</idno></person>
+	  <biography>
+	    <graphic url="http://www.knaw.nl/cfdata/leden/images/Gaillard_PJ_597.jpg"/>
+	    <text>&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+	&lt;div class="Section1"&gt;
+	&lt;p style="background:white" class="MsoNormal"&gt;&lt;i&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;letter-spacing:.1pt;mso-ansi-language:NL"&gt;Levensbericht door P. van Duijn&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+	&lt;p style="margin-top:16.55pt;margin-right:0cm;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:1.2pt;margin-bottom:.0001pt;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:17.0pt;color:#000099;letter-spacing:-.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;Pieter Johannes Gaillard&lt;/span&gt;&lt;/p&gt;
+	&lt;p style="margin-top:9.35pt;margin-right:0cm;margin-bottom:&amp;#13;&amp;#10;27.1pt;margin-left:1.9pt;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="font-size:11.0pt;&amp;#13;&amp;#10;color:#000099;mso-ansi-language:NL"&gt;18 januari 1907-8 maart 1992&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;span style="font-size:10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:&amp;#13;&amp;#10;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&amp;#13;&amp;#10;mso-bidi-language:AR-SA"&gt;&lt;br clear="all" style="page-break-before:auto;&amp;#13;&amp;#10;mso-break-type:section-break"/&gt;
+	&lt;/span&gt;
+	&lt;div class="Section2"&gt;
+	&lt;div style="mso-element:frame;mso-element-frame-height:390.25pt;mso-element-frame-hspace:&amp;#13;&amp;#10;504.0pt;mso-element-wrap:no-wrap-beside;mso-element-anchor-vertical:paragraph;&amp;#13;&amp;#10;mso-element-anchor-horizontal:margin;mso-element-left:.55pt;mso-element-top:&amp;#13;&amp;#10;.05pt"&gt;
+	&lt;table cellpadding="0" hspace="0" vspace="0" cellspacing="0" height="520"&gt;
+	&lt;tr&gt;
+	&lt;td align="left" height="520" style="padding-top:0cm;padding-right:&amp;#13;&amp;#10;  504.0pt;padding-bottom:0cm;padding-left:504.0pt" valign="top"&gt;
+	&lt;p style="mso-element:frame;mso-element-frame-height:390.25pt;&amp;#13;&amp;#10;  mso-element-frame-hspace:504.0pt;mso-element-wrap:no-wrap-beside;mso-element-anchor-vertical:&amp;#13;&amp;#10;  paragraph;mso-element-anchor-horizontal:margin;mso-element-left:.55pt;&amp;#13;&amp;#10;  mso-element-top:.05pt" class="MsoNormal"&gt;&lt;span style="font-size:12.0pt"&gt;&lt;!--[if gte vml 1]&gt;&lt;v:shapetype&#13;
+	   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"&#13;
+	   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"&gt;&#13;
+	   &lt;v:stroke joinstyle="miter" /&gt;&#13;
+	   &lt;v:formulas&gt;&#13;
+	    &lt;v:f eqn="if lineDrawn pixelLineWidth 0" /&gt;&#13;
+	    &lt;v:f eqn="sum @0 1 0" /&gt;&#13;
+	    &lt;v:f eqn="sum 0 0 @1" /&gt;&#13;
+	    &lt;v:f eqn="prod @2 1 2" /&gt;&#13;
+	    &lt;v:f eqn="prod @3 21600 pixelWidth" /&gt;&#13;
+	    &lt;v:f eqn="prod @3 21600 pixelHeight" /&gt;&#13;
+	    &lt;v:f eqn="sum @0 0 1" /&gt;&#13;
+	    &lt;v:f eqn="prod @6 1 2" /&gt;&#13;
+	    &lt;v:f eqn="prod @7 21600 pixelWidth" /&gt;&#13;
+	    &lt;v:f eqn="sum @8 21600 0" /&gt;&#13;
+	    &lt;v:f eqn="prod @7 21600 pixelHeight" /&gt;&#13;
+	    &lt;v:f eqn="sum @10 21600 0" /&gt;&#13;
+	   &lt;/v:formulas&gt;&#13;
+	   &lt;v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" /&gt;&#13;
+	   &lt;o:lock v:ext="edit" aspectratio="t" /&gt;&#13;
+	  &lt;/v:shapetype&gt;&lt;v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:4in;&#13;
+	   height:390pt'&gt;&#13;
+	   &lt;v:imagedata src="00019_Levensberichten_en_herdenkingen_1993_F_00025_files/image001.jpg"&#13;
+	    o:title="" /&gt;&#13;
+	  &lt;/v:shape&gt;&lt;![endif]--&gt;&lt;img width="384" src="http://www.digitallibrary.nl:80/files/pub/Levensberichten_en_herdenkingen_1891/xhtml/00019_Levensberichten_en_herdenkingen_1993_F_00025_files/image002.jpg" v:shapes="_x0000_i1025" height="520"/&gt;&lt;o:p/&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;/table&gt;
+	&lt;/div&gt;
+	&lt;br clear="ALL"/&gt;
+	&lt;p style="line-height:17pt;.05pt;mso-line-height:17pt;-rule:exactly" class="MsoNormal"&gt;&lt;span style="font-size:1.0pt"&gt;&lt;o:p&gt;&amp;#160;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;span style="font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:&amp;#13;&amp;#10;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&amp;#13;&amp;#10;mso-bidi-language:AR-SA"&gt;&lt;br clear="all" style="page-break-before:auto;&amp;#13;&amp;#10;mso-break-type:section-break"/&gt;
+	&lt;/span&gt;
+	&lt;div class="Section3"&gt;
+	&lt;p style="margin-top:46.3pt;line-height:17pt;.05pt;mso-line-height:17pt;-rule:&amp;#13;&amp;#10;exactly" class="MsoNormal"&gt;&lt;span style="font-size:1.0pt"&gt;&lt;o:p&gt;&amp;#160;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;span style="font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:&amp;#13;&amp;#10;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&amp;#13;&amp;#10;mso-bidi-language:AR-SA"&gt;&lt;br clear="all" style="page-break-before:auto;&amp;#13;&amp;#10;mso-break-type:section-break"/&gt;
+	&lt;/span&gt;
+	&lt;div class="Section4"&gt;
+	&lt;p style="margin-top:1.45pt;background:white" class="MsoNormal"&gt;&lt;i&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:NL"&gt;Pieter Johannes&amp;#13;
+	Gaillard&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;
+	&lt;span style="font-size:10.0pt;font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-font-family:&amp;#13;&amp;#10;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&amp;#13;&amp;#10;mso-bidi-language:AR-SA"&gt;&lt;br clear="all" style="mso-column-break-before:always"/&gt;
+	&lt;/span&gt;
+	&lt;p style="background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;25&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/body&gt;
+	&lt;body lang="EN-US" style="tab-interval:36.0pt;text-justify-trim:punctuation"&gt;
+	&lt;div class="Section1"&gt;
+	&lt;p style="margin-left:.25pt;line-height:17pt;11.75pt;mso-line-height:17pt;-rule:&amp;#13;&amp;#10;exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.15pt;&amp;#13;&amp;#10;mso-ansi-language:NL"&gt;On 17 February 1891 Mary Morstan, ,&amp;#13; passed away,
+	spy and governess 
+	&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.1pt;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;lmember of the Academy of sciencese.&lt;/span&gt;&lt;/p&gt;
+	&lt;p style="margin-top:.25pt;margin-right:0cm;margin-bottom:0cm;&amp;#13;&amp;#10;margin-left:.25pt;margin-bottom:.0001pt;text-indent:8.15pt;line-height:17pt;11.75pt;&amp;#13;&amp;#10;mso-line-height:17pt;-rule:exactly;background:white" class="MsoNormal"&gt;&lt;span lang="NL" style="color:#000099;&amp;#13;&amp;#10;letter-spacing:.15pt;mso-ansi-language:NL"&gt;Morstan was born in 1861 in London&amp;#13;
+	as the daughter of Arthur Morstan, a captain in the British Army en&lt;br/&gt;
+	&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-
+Mostly famous for her marriage to doctor John Watson, private detective, and the mysterious cirumstances surrounding her death.
+	&lt;/span&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-languag
+	&lt;p style="margin-top:48.95pt;margin-right:0cm;margin-bottom:&amp;#13;&amp;#10;0cm;margin-left:.95pt;margin-bottom:.0001pt;tab-stops:331.45pt;background:white" class="MsoNormal"&gt;&lt;i&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:.05pt;mso-ansi-language:NL"&gt;Pieter&amp;#13;
+	Mary Morstan&lt;/span&gt;&lt;/i&gt;&lt;i&gt;&lt;span lang="NL" style="color:#000099;mso-ansi-language:&amp;#13;&amp;#10;NL"&gt;&lt;span style="mso-tab-count:1"&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; &lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span lang="NL" style="color:#000099;letter-spacing:-.35pt;mso-ansi-language:NL"&gt;27&lt;/span&gt;&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;/body&gt;
+	</text>
+	  </biography>
+	</biodes>
