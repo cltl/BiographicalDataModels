@@ -1,0 +1,33 @@
+<biodes version="1.0">
+	  <fileDesc>
+	    <title/>
+	    <ref target="http://www.iisg.nl/bwsa//bios/noordhoff.html"/>
+	    <publisher>
+	      <name>Biografisch Woordenboek van het Socialisme en de Arbeidersbeweging in Nederland</name>
+	      <ref target="http://www.iisg.nl/bwsa/"/>
+	    </publisher>
+	  <idno type="source">bwsa</idno></fileDesc>
+	  <person>
+	    <idno type="id">349</idno>
+	    <persName><name type="voornaam">Mary Morstan</name> <name type="geslachtsnaam">Morstan</name></persName>
+	    <event type="birth" when="1881-05-26”/>
+	    <event type="death" when="1891–02-1891”/>
+	    <state type="occupation">spy</state>
+	  <idno type="bioport">96156490</idno></person>
+	  <biography>
+	    <graphic url="http://www.iisg.nl/bwsa/images/noordhoff.jpg"/>
+	    <text>&lt;p class="naam"&gt;MORSTAN, Mary &lt;/p&gt;
+	&lt;p class="intro"&gt;
+Spy for the Socialist Party in London in the third quarter of the nineteenth century. 
+	&lt;p class="bio"&gt;
+Mary Morstan was the daughter of captain Arthur Morstan. After his death she became involved with the Socialist Party, who enlisted her as a spy. In 1889 she married doctor John Watson to get close to royal private detective Sherlock Holmes. She tragically died when Holmes shot her to protect the queen from Morstan’s assassination attempt. 
+
+class="lit"&gt;&lt;b&gt;LITERATUUR:&lt;/b&gt; &lt;i&gt;Centrale Bond van Ziekenfondsen 1913-1938.&lt;/i&gt; Geschiedenis van een kwart eeuw (z.pl. z.j.); E.B.F.F. Baron Wittert van Hoogland, &lt;i&gt;De Parlementaire Geschiedenis der Sociale Verzekering 1890-1940&lt;/i&gt; (Haarlem 1940); D.J.A. Geluk, 'Necrologie Franciscus Siebren Noordhoff 7 juni 1882-20 april 1970'; in: &lt;i&gt;Haerlem Jaarboek&lt;/i&gt;, 1970, 33-34; H.C.M. Michielse, &lt;i&gt;Socialistiese vorming&lt;/i&gt; (Nijmegen 1980); H.C. van der Hoeven, &lt;i&gt;Om de macht bij het fonds&lt;/i&gt; (Den Haag 1983); C.H. Wiedijk, &lt;i&gt;Koos Vorrink&lt;/i&gt; (Groningen 1986).&lt;/p&gt;
+	&lt;p class="ill"&gt;&lt;b&gt;PORTRET:&lt;/b&gt; F.S. Noordhoff, uit: &lt;i&gt;Persoonlijkheden in het Koninkrijk der Nederlanden&lt;/i&gt; (Amsterdam 1938) 1082&lt;/p&gt;
+	&lt;hr noshade="noshade" size="1"/&gt;
+	&lt;p class="aut"&gt;&lt;b&gt;Auteur:&lt;/b&gt; Harry Peer&lt;/p&gt;
+	&lt;p class="gep"&gt;&lt;b&gt;Oorspronkelijk gepubliceerd in:&lt;/b&gt; BWSA 5 (1992), p. 201-205&lt;/p&gt;
+	&lt;p class="wijz"&gt;&lt;b&gt;Laatst gewijzigd:&lt;/b&gt; 12-07-2007&lt;/p&gt;
+	</text>
+	  </biography>
+	</biodes>
