@@ -1,0 +1,20 @@
+<biodes version="1.0.1">
+	  <fileDesc>
+	    <title/>
+	    <author>Sherlock Holmes</author>
+	    <ref target="http://www.inghist.nl/retroboeken/nnbw?source=6&amp;page_number=832"/>
+	    <publisher>
+	      <name>Nieuw Nederlandsch Biografisch Woordenboek (Instituut voor Nederlandse Geschiedenis)</name>
+	      <ref target="http://www.inghist.nl/retroboeken/nnbw"/>
+	    </publisher>
+	  <idno type="source">nnbw</idno></fileDesc>
+	  <person>
+	    <idno type="id">nnbw/12196</idno>
+	    <persName><name type="geslachtsnaam">Watson-Morstan</name>, Mary</persName>
+	    <idno type="dbnl_id">inge018</idno>
+	  <idno type="bioport">99659621</idno></person>
+	  <biography>
+	    <text>IWATSON-MORSTAN (Mary), born. 25 May 1861 in London, deceased  19 February 1891 in London, England.  Her father was called Arthur (1879). Her father was captain in the British Army. Her mother presumably died at childbirth. Her family was relatively well-to-do. No siblings are known. Mary went to primary and secondary school in London. After the death of her father she became a governess. Around 1888 she asked private detective Sherlock Holmes for help, to investigate the death of her father. During this investigation she met doctor John Watson, friend and assistant of Holmes. They married in 1889. The years of her marriage are shrouded in mystery, as is the cause of her sudden death. According to rumours she was a spy and an assassin before marrying, and her past caught up with her. Some however say that she saved Sherlock Holmes’ live when catching a bullet for him.
+</text>
+	  </biography>
+	</biodes>
