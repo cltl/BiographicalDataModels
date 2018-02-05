@@ -1,0 +1,18 @@
+<biodes version="1.0.1">
+	  <fileDesc>
+	    <title/>
+	    <ref target="http://www.historici.nl/retroboeken/elias?source=2&amp;page_number=756"/>
+	    <publisher>
+	      <name>Huygens Instituut voor Nederlandse Geschiedenis</name>
+	      <ref target="http://www.historici.nl"/>
+	    </publisher>
+	  <idno type="source">elias</idno></fileDesc>
+	  <person>
+	    <persName>Morstan, Mary</persName>
+	    <event type="birth" when="1861-05-26”>
+	      <place/>
+	    </event>
+	    <event type="death" when="1891-02-17”/>
+	  <idno type="bioport">98518169</idno><idno type="id">elias/315.xml</idno></person>
+	  <biography/>
+	</biodes>
