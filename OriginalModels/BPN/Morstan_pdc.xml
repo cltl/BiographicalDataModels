@@ -1,0 +1,32 @@
+<biodes version="1.0">
+	 <fileDesc>
+	  <ref target="http://www.parlementairdocumentatiecentrum.nl/id/vg09ll9su3gf"/>
+	  <publisher>
+	   <name>Parlementair Documentatie Centrum</name>
+	   <ref target="http://www.parlementairdocumentatiecentrum.nl/"/>
+	  </publisher>
+	 <title/><idno type="source">pdc</idno></fileDesc>
+	 <person xml:id="vg09ll9su3gf">
+	  <persName>
+	   <name type="voornaam">M.</name>
+	    <name type="geslachtsnaam">Morstan</name>
+	  </persName>
+	  <persName>
+	   <name type="voornaam">Mary</name>
+	   <name type="voornaam"></name>
+	    <name type="geslachtsnaam">Suring</name>
+	  </persName>
+	  <sex value="1"/>
+	  <event type="birth" when="1861-05-25”>in <place>Londen (UK)</place></event>
+	  <event type="death" when="1891-03-12”>in <place>London</place></event>
+	  <event type="marriage" when="1889–0615">married</event>
+	  <state type="residence" to="1891-03-12”>Bakerstreet, London</state>
+	  <state type="education" to="1880-10”>Governess school, London</state>
+	  <state type="faith">Protestant/state>
+	  <state type="occupation" from="1881”>Governess in London</state>
+	  <state type="occupation">Spy and assassin, global</state>
+	 <idno type="bioport">97887537</idno><idno type="id">pdc/vg09ll9su3gf.xml</idno></person>
+	 <biography>
+	  <graphic url="http://www.parlementairdocumentatiecentrum.nl/9235000/p/013/01325g.jpg"/> <text>Governess in London, to members of the royal family. Married doctor John Watson in 1889. Died in action during one of her espionage activities..</text>
+	 </biography>
+	</biodes>
