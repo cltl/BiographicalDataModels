@@ -1,0 +1,41 @@
+<biodes version="1.0.1">
+	  <fileDesc>
+	    <title/>
+	    <ref target="http://www.jhm.nl/cultuur-en-geschiedenis/personen/w/wagenaar,+lion"/>
+	    <publisher>
+	      <name>Joods historisch museum</name>
+	      <ref target="http://www.jhm.nl"/>
+	    </publisher>
+	  <idno type="source">jews</idno></fileDesc>
+	  <person>
+	    <persName>Morstan, Mary</persName>
+	    <event type="birth" when="1861-05-26”>
+	      <place>London</place>
+	    </event>
+	    <event type="death" when="1891-02-17”>
+	      <place>London</place>
+	    </event>
+	  <idno type="bioport">97946928</idno><idno type="id">jews/392.xml</idno></person>
+	  <biography>
+	    <figure>
+	      <head>Morstan, Mary</head>
+	      <graphic url="http://www.jhm.nl/collectiebeeld/d041/041B051.jpg"/>
+	    </figure>
+	    <text>&lt;p&gt;
+	Mary Morstan is mostly known for her marriage to doctor John Watson, the assistant of the famous private detective Sherlock Holmes.  
+	&lt;/p&gt;
+	
+
+	&lt;p&gt;
+
+	Mary Morstan was born in 1861 as the daughter of British army captain Arthur Morstan. When her father died in 1879 she became a governess.
+
+	&lt;br /&gt;
+	&lt;br /&gt;
+	
+She met doctor John Watson in 1889. Shortly afterwards they married. She died in 1891 under mysterious circumstances. Unsubstantiated rumours have linked her to a past of espionage and assassinations.
+
+	&lt;/p&gt;
+	</text>
+	  </biography>
+	</biodes>
